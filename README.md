@@ -1,1 +1,1 @@
-[]{git-image/cover.jpg}
+![]{git-image/cover.jpg}
